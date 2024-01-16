@@ -2,7 +2,7 @@
 // https://github.com/bitsdojo/bitsdojo_window#getting-started
 
 import 'package:flutter/material.dart';
-import 'package:bitsdojo_window/bitsdojo_window.dart';
+import '../bitsdojo_window.dart';
 
 void main() {
   appWindow.size = const Size(600, 450);
